@@ -122,10 +122,8 @@ Index: lib/Foswiki.pm
 |  CPAN Dependencies: | none |
 |  Other Dependencies: | Foswiki:Extensions/EditContrib |
 |  Perl Version: | 5.005 |
-|  Foswiki:Extensions/Benchmark: | %SYSTEMWEB%.GoodStyle nn%, %SYSTEMWEB%.FormattedSearch nn%, %TOPIC% nn% |
 |  Plugin Home: | http://foswiki.org/Extensions/%TOPIC% |
 |  Feedback: | http://foswiki.org/Extensions/%TOPIC%Dev |
-|  Appraisal: | http://foswiki.org/Extensions/%TOPIC%Appraisal |
 
 __Related Topics:__ Foswiki:Extensions/SectionalEditPlugin, Foswiki:Extensions/RecursiveRenderPlugin
 
